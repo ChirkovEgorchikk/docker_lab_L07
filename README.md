@@ -29,6 +29,7 @@ sudo docker run -d -p 8080:80 --name my-web-container my-web-app
 ### 3. Проверка работы
 Выполнен запрос curl http://localhost:8080. Контейнер успешно отдает кастомную страницу.
 Список запущенных контейнеров (docker ps):
+
 <img width="890" height="202" alt="Снимок экрана 2026-11-20 153824" src="https://github.com/user-attachments/assets/7917503a-213e-4905-b0b7-69a4c89e70b4" />
 
 ## Итог
